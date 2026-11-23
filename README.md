@@ -32,10 +32,6 @@ Bu proje, hastanelerdeki hasta, doktor ve sekreter işlemlerini tek bir sistem �
 
 ## Görseller
 
----
-
-<img width="1019" height="685" alt="02-hasta-kayit" src="https://github.com/user-attachments/assets/a59ca307-9ab0-4c33-9309-ed31d0714e30" />
-
 
 ---
 
